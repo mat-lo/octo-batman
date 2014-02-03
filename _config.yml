@@ -1,0 +1,4 @@
+name: Octo-Batman
+markdown: redcarpet
+pygments: true
+baseurl: /octo-batman
